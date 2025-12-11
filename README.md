@@ -1,6 +1,4 @@
-# Development-of-an-Early-Warning-and-Decision-Support-System-for-Pest-Control
-Development of an Early Warning and Decision Support System for Sustainable Management of Fall Armyworm (Pest) in Zambia
-FAMEWS Android Scouting App (Offline-first)
+# FAMEWS Android Scouting App (Offline-first)
 
 This is an Android app skeleton for a FAMEWS-style Fall Armyworm scouting client.
 
